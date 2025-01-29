@@ -1,0 +1,28 @@
+package org.example.week1.exerciseAndHomework;// This file contains source code for enhanced help app
+// The code should be pasted into Help2.java at the 
+// appropriate place.
+
+//		case 3:
+//			System.out.println("\nThe for: \n");
+//			System.out.println("for (init; condition; iteration)");
+//			System.out.println("{");
+//			System.out.println("   statement sequence");
+//			System.out.println("}");
+//			break;
+//		case 4:
+//			System.out.println("\nThe while:\n");
+//			System.out.println("while (condition)");
+//			System.out.println("{");
+//			System.out.println("   statement sequence");
+//			System.out.println("}");
+//			break;
+//		case 5:
+//			System.out.println("\nThe do-while\n");
+//			System.out.println("do");
+//			System.out.println("{");
+//			System.out.println("   statement sequence");
+//			System.out.println("}");
+//			break;
+//		case 0:
+//			break;
+//
