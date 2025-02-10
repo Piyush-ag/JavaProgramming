@@ -1,4 +1,4 @@
-package org.example.Week2.ExerciseAndDownloads;// Program to calculate the average of student grades using a method
+package org.example.week2.ExerciseAndDownloads;// Program to calculate the average of student grades using a method
 // The average is displayed with two decimal points: 83.67
 
 public class CalculateGrades

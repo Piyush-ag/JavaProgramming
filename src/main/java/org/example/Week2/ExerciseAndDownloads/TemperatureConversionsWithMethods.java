@@ -1,4 +1,4 @@
-package org.example.Week2.ExerciseAndDownloads;// Program to perform temperature conversions using methods
+package org.example.week2.ExerciseAndDownloads;// Program to perform temperature conversions using methods
 
 import java.util.Scanner;
 

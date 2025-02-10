@@ -1,4 +1,4 @@
-package org.example.Week2.ExerciseAndDownloads;// The following program prompts a user to enter temperatures in degrees Fahrenheit or Celsius.
+package org.example.week2.ExerciseAndDownloads;// The following program prompts a user to enter temperatures in degrees Fahrenheit or Celsius.
 // It then converts the entered temperature to the other measurement scale and displays both the 
 // entered temperature and the equivalent temperature in the other measurement scale.
 

@@ -1,4 +1,4 @@
-package org.example.Week2.ExerciseAndDownloads;
+package org.example.week2.ExerciseAndDownloads;
 
 public class VowelCount
 {
